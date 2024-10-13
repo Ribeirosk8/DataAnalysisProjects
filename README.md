@@ -3,7 +3,7 @@
 
 #Instructions to setup mysql on your local computer
 
-1. SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer and import it to SQL database.
+1. SQL database dump is in db_dump.sql file. Download db_dump.sql file to your local computer and import it to SQL database.
 
 ## Data Analysis Using SQL
 
